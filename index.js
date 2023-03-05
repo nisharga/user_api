@@ -18,7 +18,7 @@ app.use(express.json());
 app.use(express.static("public"));
 
 app.get("/", (req, res) => {
-  res.send("I Love Express sdsd");
+  res.send("I Love Express, Our Server is Running");
 });
 
 // Get a random user from the .json file
