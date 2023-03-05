@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "gender": "male",
+        "name": "Alex Meno",
+        "contact": 13063712912,
+        "address": "Ontario, Canada",
+        "photoUrl": "http://localhost:4000/img/boy1.jpg"
+    },
+    {
+        "id": 2,
+        "gender": "male",
+        "name": "Jhon die",
+        "contact": 12023712912,
+        "address": "Texas, America",
+        "photoUrl": "http://localhost:4000/img/boy2.jpg"
+    },
+    {
+        "id": 3,
+        "gender": "male",
+        "name": "Tim pane",
+        "contact": 14023712912,
+        "address": "Saganara, Australia",
+        "photoUrl": "http://localhost:4000/img/boy3.jpg"
+    },
+    {
+        "id": 4,
+        "gender": "female",
+        "name": "Lid Hasin",
+        "contact": 13023712912,
+        "address": "Minisota, Canada",
+        "photoUrl": "http://localhost:4000/img/female1.jpg"
+    },
+    {
+        "id": 5,
+        "gender": "female",
+        "name": "Lopa Gomez",
+        "contact": 12023712912,
+        "address": "Hostalias, Austalia",
+        "photoUrl": "http://localhost:4000/img/female2.jpg"
+    },
+    {
+        "id": 6,
+        "gender": "female",
+        "name": "Kamini Sam",
+        "contact": 19023712912,
+        "address": "Youdaz, Uganda",
+        "photoUrl": "http://localhost:4000/img/female3.jpg"
+    } 
+]
